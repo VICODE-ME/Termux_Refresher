@@ -14,18 +14,18 @@ Version 4.0 – Process Tracking | Smart Recovery | Advanced Analytics
 ---
 
 📖 Table of Contents
-1. Features.
-2· How It Works.
-3· Directory Structure
-4· Requirements
-5· Installation
-6· Usage
-7· Menu Options Explained
-8· Logging & Analytics
-9· Compatibility with Other Linux Flavors
-10· Future Scope & Development
-11· Screenshots & GIFs
-12· GitHub Pages – Web Preview
+1. Features
+2. How It Works
+3. Directory Structure
+4. Requirements
+5. Installation
+6. Usage
+7. Menu Options Explained
+8. Logging & Analytics
+9. Compatibility with Other Linux Flavors
+10. Future Scope & Development
+11. Screenshots & GIFs
+12. GitHub Pages – Web Preview
 13. License
 
 ---
