@@ -243,7 +243,7 @@ We are actively improving the project. Planned features:
 
 ---
 
-🌐 Web Preview: https://vicode-me.github.io/web-not-for-user/.
+🌐 Web Preview (How Script work): https://vicode-me.github.io/web-not-for-user/.
 
 ---
 
