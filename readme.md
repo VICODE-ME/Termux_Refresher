@@ -8,7 +8,7 @@ Version 4.0 – Process Tracking | Smart Recovery | Advanced Analytics
 <p align="center">
   <img src="/assets/termux-session-pro-banner.png" alt="Termux Session Manager Pro Banner" width="800">
   <br>
-  <em>Take full control of your Termux environment with intelligent session management.</em>
+  <em>Take full control of your Termux environment with intelligent session management. Many of my work online soon</em>
 </p>
 
 ---
@@ -32,18 +32,18 @@ Version 4.0 – Process Tracking | Smart Recovery | Advanced Analytics
 
 ✨ Features
 
-Feature Description
-Smart Session Restart Three restart modes (soft, activity, full reset) without losing context.
-Automated Process Recovery Detects crashed services (SSH, Python, Node, etc ) and restarts them intelligently.
-Real‑time Process Dashboard Live watch‑based process viewer sorted by memory usage.
-Resource Monitor Instant access to htop / top.
-Emergency Stop Kill all child processes of the current session with one command.
-Comprehensive Logging Two dedicated log files for session events and process snapshots.
-Cold Start Detection Logs when Termux is freshly launched.
-System Stats Capture Memory & CPU usage appended to session log.
-Activity Logs Sub‑Menu Quick view or deep inspection of audit trails.
-Color‑coded Terminal UI Clear, intuitive menu with professional design.
-Modular & Extensible Bash script with clean functions – easy to customise.
+Feature Description:
+1. Smart Session Restart Three restart modes (soft, activity, full reset) without losing context.
+2. Automated Process Recovery Detects crashed services (SSH, Python, Node, etc ) and restarts them intelligently.
+3. Real‑time Process Dashboard Live watch‑based process viewer sorted by memory usage.
+4. Resource Monitor Instant access to htop / top.
+5. Emergency Stop Kill all child processes of the current session with one command.
+6. Comprehensive Logging Two dedicated log files for session events and process snapshots.
+7. Cold Start Detection Logs when Termux is freshly launched.
+8. System Stats Capture Memory & CPU usage appended to session log.
+9. Activity Logs Sub‑Menu Quick view or deep inspection of audit trails.
+10. Color‑coded Terminal UI Clear, intuitive menu with professional design.
+11. Modular & Extensible Bash script with clean functions – easy to customise.
 
 ---
 
