@@ -262,7 +262,7 @@ You can turn this README into a beautiful GitHub Pages site in minutes:
 2. Under Branch, select main (or master) and the /docs folder (or root).
 3. (Optional) Create a docs/index.md file – you can copy this README there.
 4. GitHub will automatically build and publish your site at
-      https://yourusername.github.io/termux-session-pro/.
+      https://vicode-me.github.io/web-not-for-user/.
 
 For a more customised web page, create an index.html that embeds the README or presents the information with custom CSS. You can also use tools like Docusaurus or docsify for a richer experience.
 
