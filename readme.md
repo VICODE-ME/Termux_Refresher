@@ -109,7 +109,7 @@ curl -o ~/termux_session_manager.sh \
 2. Make it executable
 
 ```bash
-chmod +x ~/termux_refresher.sh
+chmod +x ~/termux_session_manager.sh
 ```
 
 3. (Optional) Install dependencies
@@ -121,7 +121,7 @@ pkg update && pkg install htop procps termux-tools
 4. Run it
 
 ```bash
-./termux_refresher.sh
+./termux_session_manager.sh
 ```
 
 Pro tip: Add an alias to your .bashrc
