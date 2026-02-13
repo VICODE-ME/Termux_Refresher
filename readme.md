@@ -254,15 +254,7 @@ Note: Replace the placeholder paths with actual images hosted in your repository
 
 ---
 
-🌐 GitHub Pages – Web Preview
-
-You can turn this README into a beautiful GitHub Pages site in minutes:
-
-1. In your repository, go to Settings → Pages.
-2. Under Branch, select main (or master) and the /docs folder (or root).
-3. (Optional) Create a docs/index.md file – you can copy this README there.
-4. GitHub will automatically build and publish your site at
-      https://vicode-me.github.io/web-not-for-user/.
+🌐 Web Preview: https://vicode-me.github.io/web-not-for-user/.
 
 For a more customised web page, create an index.html that embeds the README or presents the information with custom CSS. You can also use tools like Docusaurus or docsify for a richer experience.
 
