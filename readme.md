@@ -6,7 +6,7 @@
 Version 4.0 – Process Tracking | Smart Recovery | Advanced Analytics
 
 <p align="center">
-  <img src="assets/termux-session-pro-banner.png" alt="Termux Session Manager Pro Banner" width="800">
+  <img src="/assets/termux-session-pro-banner.png" alt="Termux Session Manager Pro Banner" width="800">
   <br>
   <em>Take full control of your Termux environment with intelligent session management.</em>
 </p>
