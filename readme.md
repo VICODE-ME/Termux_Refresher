@@ -233,7 +233,7 @@ How to contribute:
 🖼️ Screenshots & GIFs
 
 <p align="center">
-  <img src="screenshots/main-menu.png" alt="Main Menu" width="500">
+  <img src="assets/main-menu.png" alt="Main Menu" width="500">
   <br>
   <em>Main menu – clean, colour‑coded interface.</em>
 </p>
